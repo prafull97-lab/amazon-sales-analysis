@@ -26,10 +26,6 @@ This project analyzes Amazon sales data to uncover insights related to revenue, 
 - Certain regions underperformed in both revenue and profit
 - Customer payment preferences showed clear usage patterns
 
----
-
-## Dashboard
-
 
 ---
 
